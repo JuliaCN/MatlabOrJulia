@@ -1,2 +1,6 @@
-# MatlabOrJulia
-A study of ecosystem in Julia, as an alternative to Matlab
+# Matlab or Julia
+
+## Table of content
+
+* [Plotting](plotting.md)
+* [Array Operations](arrays.md)
