@@ -6,7 +6,7 @@ Plotting packages in Julia
 
 It is a pacakge for declarative vector graphs. For example, the following chimera lattice is plotted with [Viznet](https://github.com/GiggleLiu/Viznet.jl), which is a lattice extension of Compose.
 
-![chimera](images/chimera.svg)
+<img src="images/chimera.svg" width=300px/>
 
 * GR
 * Gadfly
@@ -16,15 +16,13 @@ It is a pacakge for declarative vector graphs. For example, the following chimer
 * Plots
 * PyPlot
 * UnicodePlots
-* VegaLite
-
-## Pros
-#### Rich ecosystem
 
 You will never see a plotting package that can plot in terminal in Matlab
-![unicodeplot](images/unicodeplot.png)
+<img src="images/unicodeplot.png" width=500px/>
 
-## Cons
+* VegaLite
+
+## Gripes
 
 #### The first plot issue
 
