@@ -59,16 +59,12 @@ According to the [official site](https://www.mathworks.com/products.html), matla
 * GPU Coder
     * [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl)
 
-### Application Deployment
-
-* MATLAB Compiler
-* MATLAB Compiler SDK
-* MATLAB Production Server
-* MATLAB Web App Server
+### Application Deployment [skipped]
 
 ### Database Access and Reporting
 
 * Database Toolbox
+    * [JuliaDB.jl](https://github.com/JuliaData/JuliaDB.jl): Parallel analytical database in pure Julia
 * MATLAB Report Generator
 
 ## Simulink
@@ -138,7 +134,7 @@ According to the [official site](https://www.mathworks.com/products.html), matla
 * Image Processing Toolbox
     * [Images.jl](https://github.com/JuliaImages/Images.jl)
 * Computer Vision Toolbox
-    * [click to see](plotting.md)
+    * [click here](plotting.md)
 
 ### Control Systems
 
