@@ -7,10 +7,7 @@ This Project is far from complete, if you are interested to know the replacement
 
 ## Table of content
 
-According to the [official site](https://www.mathworks.com/products.html), matlab contains the following products and features
-
-## Matlab products and services
-The following list are arranged like
+The following list is arranged like
 ```
 * MATLAB FEATURE 1
     * JULIA REPLACEMENT 1: descriptions.
@@ -19,6 +16,10 @@ The following list are arranged like
 * MATLAB FEATURE 2
 * ...
 ```
+
+## Products and Services
+
+According to the [official site](https://www.mathworks.com/products.html), matlab contains the following products and features
 
 ### MATLAB
 ### Parallel Computing
