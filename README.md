@@ -2,8 +2,8 @@
 
 <img src="images/pills.jpg" width=400px/>
 
-!!! warning
-Still under development, we need someone who knows matlab very well!
+## !!! warning
+This Project is far from complete, if you are interested to know the replacement of a Matlab functionality in Julia, PLEASE FILE AN ISSUE!
 
 ## Table of content
 
