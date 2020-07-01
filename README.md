@@ -13,8 +13,8 @@ According to the [official site](https://www.mathworks.com/products.html), matla
 The following list are arranged like
 ```
 * MATLAB FEATURE 1
-    * [JULIA REPLACEMENT 1](): descriptions.
-    * [JULIA REPLACEMENT 2](): descriptions.
+    * JULIA REPLACEMENT 1: descriptions.
+    * JULIA REPLACEMENT 2: descriptions.
     * ...
 * MATLAB FEATURE 2
 * ...
