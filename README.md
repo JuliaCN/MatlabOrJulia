@@ -8,20 +8,19 @@ This Project is far from complete, if you are interested to know the replacement
 ## Table of content
 
 The following list is arranged like
-```diff
-- MATLAB FEATURE 1 (Julia lose)
-```
-* JULIA REPLACEMENT 1: descriptions.
-* JULIA REPLACEMENT 2: descriptions.
+
+![#DD3300](https://via.placeholder.com/15/DD3300/000000?text=+) 
+Item Julia lose
+
+* Julia Package 1: descriptions.
+* Julia Package 2: descriptions.
 * ...
 
-```diff
-+ MATLAB FEATURE 2 (Julia win)
-```
+![#00DD33](https://via.placeholder.com/15/00DD33/000000?text=+) 
+Item Julia win
 
-```diff
-! MATLAB FEATURE 3 (Hard to say)
-```
+![#888888](https://via.placeholder.com/15/888888/000000?text=+)
+Item hard to say
 
 ## Products and Services in Matlab
 
@@ -30,54 +29,48 @@ According to the [official site](https://www.mathworks.com/products.html), matla
 ### MATLAB
 ### Parallel Computing
 
-```diff
-! Parallel Computing Toolbox
-```
-* [builtin multithreading](https://docs.julialang.org/en/v1/base/multi-threading/)
-* [MPI.jl](https://github.com/JuliaParallel/MPI.jl)
+![#888888](https://via.placeholder.com/15/888888/000000?text=+)
+Parallel Computing Toolbox
+
+    * [builtin multithreading](https://docs.julialang.org/en/v1/base/multi-threading/)
+    * [MPI.jl](https://github.com/JuliaParallel/MPI.jl)
 
 ### Math and Optimization
 
-```diff
-! Curve Fitting Toolbox
-```
+![#888888](https://via.placeholder.com/15/888888/000000?text=+)
+Curve Fitting Toolbox
 
-* [LstFit.jl](https://github.com/JuliaNLSolvers/LsqFit.jl): least square fit
+    * [LstFit.jl](https://github.com/JuliaNLSolvers/LsqFit.jl): least square fit
 
-```diff
-! Optimization Toolbox
-```
+![#888888](https://via.placeholder.com/15/888888/000000?text=+)
+Optimization Toolbox
 
-* [Optim.jl](https://github.com/JuliaNLSolvers/Optim.jl)
+    * [Optim.jl](https://github.com/JuliaNLSolvers/Optim.jl)
 
-```diff
-+ Global Optimization Toolbox
-```
+![#00DD33](https://via.placeholder.com/15/00DD33/000000?text=+) 
+Global Optimization Toolbox
 
-* [Evolutionary.jl](Evolutionary.jl): Evolutionary & genetic algorithms
-* [JuMP.jl](https://github.com/jump-dev/JuMP.jl) Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)
+    * [Evolutionary.jl](Evolutionary.jl): Evolutionary & genetic algorithms
+    * [JuMP.jl](https://github.com/jump-dev/JuMP.jl) Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)
 
-```diff
-! Symbolic Math Toolbox
-```
+![#888888](https://via.placeholder.com/15/888888/000000?text=+)
+Symbolic Math Toolbox
 
-* [SymEngine.jl](https://github.com/symengine/SymEngine.jl)
-* [SymbolicUtils.jl](https://github.com/JuliaSymbolics/SymbolicUtils.jl)
+    * [SymEngine.jl](https://github.com/symengine/SymEngine.jl)
+    * [SymbolicUtils.jl](https://github.com/JuliaSymbolics/SymbolicUtils.jl)
 
-```diff
+![#888888](https://via.placeholder.com/15/888888/000000?text=+)
 Mapping Toolbox
-```
 
-```diff
-+ Partial Differential Equation Toolbox
-```
+![#00DD33](https://via.placeholder.com/15/00DD33/000000?text=+) 
+Partial Differential Equation Toolbox
 
-* [DifferentialEquations.jl](https://docs.sciml.ai/stable/): probably the best differential equation solver, check [here](http://www.stochasticlifestyle.com/wp-content/uploads/2019/08/de_solver_software_comparsion.pdf).
+   * [DifferentialEquations.jl](https://docs.sciml.ai/stable/): probably the best differential equation solver, check [here](http://www.stochasticlifestyle.com/wp-content/uploads/2019/08/de_solver_software_comparsion.pdf).
 
 ### AI, Data Science, and Statistics
 
-```diff
-! Statistics and Machine Learning Toolbox
+![#888888](https://via.placeholder.com/15/888888/000000?text=+)
+Statistics and Machine Learning Toolbox
 
    * [Distributions.jl](https://github.com/JuliaStats/Distributions.jl)
    * [StatsBase.jl](https://github.com/JuliaStats/StatsBase.jl)
@@ -88,20 +81,18 @@ Mapping Toolbox
 ![#00DD33](https://via.placeholder.com/15/00DD33/000000?text=+) 
 Deep Learning Toolbox
 
-   * [click here](ml.md)
+    * [click here](ml.md)
 
-```diff
-! Reinforcement Learning Toolbox
-```
-* [ReinforcementLearning.jl](https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl)
+![#888888](https://via.placeholder.com/15/888888/000000?text=+)
+Reinforcement Learning Toolbox
 
-```diff
-! Text Analytics Toolbox
-```
+    * [ReinforcementLearning.jl](https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl)
 
-```diff
-! Predictive Maintenance Toolbox
-```
+![#888888](https://via.placeholder.com/15/888888/000000?text=+)
+Text Analytics Toolbox
+
+![#888888](https://via.placeholder.com/15/888888/000000?text=+)
+Predictive Maintenance Toolbox
 
 ### Code Generation
 
@@ -121,10 +112,10 @@ Embedded Coder
 HDL Coder
 
 ![#888888](https://via.placeholder.com/15/888888/000000?text=+)
-! HDL Verifier
+HDL Verifier
 
 ![#888888](https://via.placeholder.com/15/888888/000000?text=+)
-! Filter Design HDL Coder
+Filter Design HDL Coder
 
 ![#888888](https://via.placeholder.com/15/888888/000000?text=+)
 Fixed-Point Designer
