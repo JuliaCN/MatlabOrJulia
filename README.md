@@ -31,19 +31,40 @@ According to the [official site](https://www.mathworks.com/products.html), matla
 
 ### Math and Optimization
 
-* Curve Fitting Toolbox
+```diff
+Curve Fitting Toolbox
+```
+
     * [LstFit.jl](https://github.com/JuliaNLSolvers/LsqFit.jl): least square fit
-* Optimization Toolbox
+
+```diff
+Optimization Toolbox
+```
+
     * [Optim.jl](https://github.com/JuliaNLSolvers/Optim.jl)
-* Global Optimization Toolbox
+
+```diff
++ Global Optimization ToolboxA
+```
+
     * [Evolutionary.jl](Evolutionary.jl): Evolutionary & genetic algorithms
     * [JuMP.jl](https://github.com/jump-dev/JuMP.jl) Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)
-* Symbolic Math Toolbox
+
+```diff
+Symbolic Math Toolbox
+```
+
     * [SymEngine.jl](https://github.com/symengine/SymEngine.jl)
     * [SymbolicUtils.jl](https://github.com/JuliaSymbolics/SymbolicUtils.jl)
-* Mapping Toolbox
-* Partial Differential Equation Toolbox
-    * [DifferentialEquations.jl](https://docs.sciml.ai/stable/)
+
+```diff
+Mapping Toolbox
+```
+
+```diff
++ Partial Differential Equation Toolbox
+```
+    * [DifferentialEquations.jl](https://docs.sciml.ai/stable/): probably the best differential equation solver, check [here](http://www.stochasticlifestyle.com/wp-content/uploads/2019/08/de_solver_software_comparsion.pdf).
 
 ### AI, Data Science, and Statistics
 
