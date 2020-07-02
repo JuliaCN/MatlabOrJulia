@@ -16,7 +16,7 @@ Item Julia lose
 * Julia Package 2: descriptions.
 * ...
 
-![#00DD33](https://via.placeholder.com/15/00DD33/000000?text=+) 
+![#0033DD](https://via.placeholder.com/15/0033DD/000000?text=+) 
 Item Julia win
 
 ![#888888](https://via.placeholder.com/15/888888/000000?text=+)
@@ -47,7 +47,7 @@ Optimization Toolbox
 
 * [Optim.jl](https://github.com/JuliaNLSolvers/Optim.jl)
 
-![#00DD33](https://via.placeholder.com/15/00DD33/000000?text=+) 
+![#0033DD](https://via.placeholder.com/15/0033DD/000000?text=+) 
 Global Optimization Toolbox
 
 * [Evolutionary.jl](Evolutionary.jl): Evolutionary & genetic algorithms
@@ -62,7 +62,7 @@ Symbolic Math Toolbox
 ![#888888](https://via.placeholder.com/15/888888/000000?text=+)
 Mapping Toolbox
 
-![#00DD33](https://via.placeholder.com/15/00DD33/000000?text=+) 
+![#0033DD](https://via.placeholder.com/15/0033DD/000000?text=+) 
 Partial Differential Equation Toolbox
 
 * [DifferentialEquations.jl](https://docs.sciml.ai/stable/): probably the best differential equation solver, check [here](http://www.stochasticlifestyle.com/wp-content/uploads/2019/08/de_solver_software_comparsion.pdf).
@@ -78,7 +78,7 @@ Statistics and Machine Learning Toolbox
 * [Gen.jl](https://github.com/probcomp/Gen.jl): A general-purpose probabilistic programming system with programmable inference
 
 
-![#00DD33](https://via.placeholder.com/15/00DD33/000000?text=+) 
+![#0033DD](https://via.placeholder.com/15/0033DD/000000?text=+) 
 Deep Learning Toolbox
 
 * [click here](ml.md)
@@ -120,7 +120,7 @@ Filter Design HDL Coder
 ![#888888](https://via.placeholder.com/15/888888/000000?text=+)
 Fixed-Point Designer
 
-![#00DD33](https://via.placeholder.com/15/00DD33/000000?text=+) 
+![#0033DD](https://via.placeholder.com/15/0033DD/000000?text=+) 
 GPU Coder
 
 * [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl)
