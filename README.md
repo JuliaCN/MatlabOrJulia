@@ -30,10 +30,11 @@ According to the [official site](https://www.mathworks.com/products.html), matla
 ### MATLAB
 ### Parallel Computing
 
-* Parallel Computing Toolbox
-    * [builtin multithreading](https://docs.julialang.org/en/v1/base/multi-threading/)
-    * [MPI.jl](https://github.com/JuliaParallel/MPI.jl)
-* MATLAB Parallel Server
+```diff
+! Parallel Computing Toolbox
+```
+* [builtin multithreading](https://docs.julialang.org/en/v1/base/multi-threading/)
+* [MPI.jl](https://github.com/JuliaParallel/MPI.jl)
 
 ### Math and Optimization
 
@@ -50,14 +51,14 @@ According to the [official site](https://www.mathworks.com/products.html), matla
 * [Optim.jl](https://github.com/JuliaNLSolvers/Optim.jl)
 
 ```diff
-+ Global Optimization ToolboxA
++ Global Optimization Toolbox
 ```
 
 * [Evolutionary.jl](Evolutionary.jl): Evolutionary & genetic algorithms
 * [JuMP.jl](https://github.com/jump-dev/JuMP.jl) Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)
 
 ```diff
-Symbolic Math Toolbox
+! Symbolic Math Toolbox
 ```
 
 * [SymEngine.jl](https://github.com/symengine/SymEngine.jl)
@@ -75,39 +76,72 @@ Mapping Toolbox
 
 ### AI, Data Science, and Statistics
 
-* Statistics and Machine Learning Toolbox
-    * [Distributions.jl](https://github.com/JuliaStats/Distributions.jl)
-    * [StatsBase.jl](https://github.com/JuliaStats/StatsBase.jl)
-    * [Turing.jl](https://github.com/TuringLang/Turing.jl): Bayesian inference with probabilistic programming.
-    * [Gen.jl](https://github.com/probcomp/Gen.jl): A general-purpose probabilistic programming system with programmable inference
-* Deep Learning Toolbox
-    * [click here](ml.md)
-* Reinforcement Learning Toolbox
-    * [ReinforcementLearning.jl](https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl)
-* Text Analytics Toolbox
-* Predictive Maintenance Toolbox
+```diff
+! Statistics and Machine Learning Toolbox
+```
+* [Distributions.jl](https://github.com/JuliaStats/Distributions.jl)
+* [StatsBase.jl](https://github.com/JuliaStats/StatsBase.jl)
+* [Turing.jl](https://github.com/TuringLang/Turing.jl): Bayesian inference with probabilistic programming.
+* [Gen.jl](https://github.com/probcomp/Gen.jl): A general-purpose probabilistic programming system with programmable inference
+
+```diff
++ Deep Learning Toolbox
+```
+* [click here](ml.md)
+
+```diff
+! Reinforcement Learning Toolbox
+```
+* [ReinforcementLearning.jl](https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl)
+
+```diff
+! Text Analytics Toolbox
+```
+
+```diff
+! Predictive Maintenance Toolbox
+```
 
 ### Code Generation
 
-* MATLAB Coder
-    * [Atom/Juno](https://junolab.org/)
-    * [VScode](https://github.com/julia-vscode/julia-vscode)
-    * [Jupyter notebook](https://jupyter.org/)
-* Embedded Coder
-* HDL Coder
-* HDL Verifier
-* Filter Design HDL Coder
-* Fixed-Point Designer
-* GPU Coder
-    * [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl)
+```diff
+MATLAB Coder
+```
+* [Atom/Juno](https://junolab.org/)
+* [VScode](https://github.com/julia-vscode/julia-vscode)
+* [Jupyter notebook](https://jupyter.org/)
+
+```diff
+! Embedded Coder
+```
+```diff
+! HDL Coder
+```
+```diff
+! HDL Verifier
+```
+```diff
+! Filter Design HDL Coder
+```
+```diff
+! Fixed-Point Designer
+```
+```diff
++ GPU Coder
+```
+* [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl)
 
 ### Application Deployment [skipped]
 
 ### Database Access and Reporting
 
-* Database Toolbox
-    * [JuliaDB.jl](https://github.com/JuliaData/JuliaDB.jl): Parallel analytical database in pure Julia
-* MATLAB Report Generator
+```diff
+! Database Toolbox
+```
+* [JuliaDB.jl](https://github.com/JuliaData/JuliaDB.jl): Parallel analytical database in pure Julia
+```diff
+! MATLAB Report Generator
+```
 
 ## Simulink
 * System Composer
