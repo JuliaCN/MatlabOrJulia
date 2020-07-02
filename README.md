@@ -78,16 +78,17 @@ Mapping Toolbox
 
 ```diff
 ! Statistics and Machine Learning Toolbox
-```
-* [Distributions.jl](https://github.com/JuliaStats/Distributions.jl)
-* [StatsBase.jl](https://github.com/JuliaStats/StatsBase.jl)
-* [Turing.jl](https://github.com/TuringLang/Turing.jl): Bayesian inference with probabilistic programming.
-* [Gen.jl](https://github.com/probcomp/Gen.jl): A general-purpose probabilistic programming system with programmable inference
 
-```diff
-+ Deep Learning Toolbox
-```
-* [click here](ml.md)
+   * [Distributions.jl](https://github.com/JuliaStats/Distributions.jl)
+   * [StatsBase.jl](https://github.com/JuliaStats/StatsBase.jl)
+   * [Turing.jl](https://github.com/TuringLang/Turing.jl): Bayesian inference with probabilistic programming.
+   * [Gen.jl](https://github.com/probcomp/Gen.jl): A general-purpose probabilistic programming system with programmable inference
+
+
+![#00DD33](https://via.placeholder.com/15/00DD33/000000?text=+) 
+Deep Learning Toolbox
+
+   * [click here](ml.md)
 
 ```diff
 ! Reinforcement Learning Toolbox
@@ -104,44 +105,47 @@ Mapping Toolbox
 
 ### Code Generation
 
-```diff
+![#888888](https://via.placeholder.com/15/888888/000000?text=+)
 MATLAB Coder
-```
-* [Atom/Juno](https://junolab.org/)
-* [VScode](https://github.com/julia-vscode/julia-vscode)
-* [Jupyter notebook](https://jupyter.org/)
 
-```diff
-! Embedded Coder
-```
-```diff
-! HDL Coder
-```
-```diff
+   * [Atom/Juno](https://junolab.org/)
+   * [VScode](https://github.com/julia-vscode/julia-vscode)
+   * [Jupyter notebook](https://jupyter.org/)
+
+
+![#888888](https://via.placeholder.com/15/888888/000000?text=+)
+Embedded Coder
+
+
+![#888888](https://via.placeholder.com/15/888888/000000?text=+)
+HDL Coder
+
+![#888888](https://via.placeholder.com/15/888888/000000?text=+)
 ! HDL Verifier
-```
-```diff
+
+![#888888](https://via.placeholder.com/15/888888/000000?text=+)
 ! Filter Design HDL Coder
-```
-```diff
-! Fixed-Point Designer
-```
-```diff
-+ GPU Coder
-```
-* [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl)
+
+![#888888](https://via.placeholder.com/15/888888/000000?text=+)
+Fixed-Point Designer
+
+![#00DD33](https://via.placeholder.com/15/00DD33/000000?text=+) 
+GPU Coder
+
+   * [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl)
 
 ### Application Deployment [skipped]
 
 ### Database Access and Reporting
 
-```diff
-! Database Toolbox
-```
-* [JuliaDB.jl](https://github.com/JuliaData/JuliaDB.jl): Parallel analytical database in pure Julia
-```diff
-! MATLAB Report Generator
-```
+
+![#888888](https://via.placeholder.com/15/888888/000000?text=+)
+Database Toolbox
+
+   * [JuliaDB.jl](https://github.com/JuliaData/JuliaDB.jl): Parallel analytical database in pure Julia
+
+![#888888](https://via.placeholder.com/15/888888/000000?text=+)
+MATLAB Report Generator
 
 ## Simulink
 * System Composer
