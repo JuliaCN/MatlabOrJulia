@@ -16,4 +16,4 @@ Zygote is an easy to use autodiff framework based on source code transformation,
 * [Yota](https://github.com/dfdx/Yota.jl)
 
 ## Gripes
-None of the above machine learning packages can be as stable as popular python packages like TensorFlow and Pytorch.
+None of the above machine learning packages can be as stable as popular python packages like TensorFlow and Pytorch. Need some try and errors.
