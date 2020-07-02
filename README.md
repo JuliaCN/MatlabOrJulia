@@ -8,13 +8,19 @@ This Project is far from complete, if you are interested to know the replacement
 ## Table of content
 
 The following list is arranged like
+```diff
+- MATLAB FEATURE 1 (Julia lose)
 ```
-* MATLAB FEATURE 1
-    * JULIA REPLACEMENT 1: descriptions.
-    * JULIA REPLACEMENT 2: descriptions.
-    * ...
-* MATLAB FEATURE 2
+* JULIA REPLACEMENT 1: descriptions.
+* JULIA REPLACEMENT 2: descriptions.
 * ...
+
+```diff
++ MATLAB FEATURE 2 (Julia win)
+```
+
+```diff
+! MATLAB FEATURE 3 (Hard to say)
 ```
 
 ## Products and Services in Matlab
@@ -32,30 +38,30 @@ According to the [official site](https://www.mathworks.com/products.html), matla
 ### Math and Optimization
 
 ```diff
-Curve Fitting Toolbox
+! Curve Fitting Toolbox
 ```
 
-    * [LstFit.jl](https://github.com/JuliaNLSolvers/LsqFit.jl): least square fit
+* [LstFit.jl](https://github.com/JuliaNLSolvers/LsqFit.jl): least square fit
 
 ```diff
-Optimization Toolbox
+! Optimization Toolbox
 ```
 
-    * [Optim.jl](https://github.com/JuliaNLSolvers/Optim.jl)
+* [Optim.jl](https://github.com/JuliaNLSolvers/Optim.jl)
 
 ```diff
 + Global Optimization ToolboxA
 ```
 
-    * [Evolutionary.jl](Evolutionary.jl): Evolutionary & genetic algorithms
-    * [JuMP.jl](https://github.com/jump-dev/JuMP.jl) Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)
+* [Evolutionary.jl](Evolutionary.jl): Evolutionary & genetic algorithms
+* [JuMP.jl](https://github.com/jump-dev/JuMP.jl) Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)
 
 ```diff
 Symbolic Math Toolbox
 ```
 
-    * [SymEngine.jl](https://github.com/symengine/SymEngine.jl)
-    * [SymbolicUtils.jl](https://github.com/JuliaSymbolics/SymbolicUtils.jl)
+* [SymEngine.jl](https://github.com/symengine/SymEngine.jl)
+* [SymbolicUtils.jl](https://github.com/JuliaSymbolics/SymbolicUtils.jl)
 
 ```diff
 Mapping Toolbox
@@ -64,7 +70,8 @@ Mapping Toolbox
 ```diff
 + Partial Differential Equation Toolbox
 ```
-    * [DifferentialEquations.jl](https://docs.sciml.ai/stable/): probably the best differential equation solver, check [here](http://www.stochasticlifestyle.com/wp-content/uploads/2019/08/de_solver_software_comparsion.pdf).
+
+* [DifferentialEquations.jl](https://docs.sciml.ai/stable/): probably the best differential equation solver, check [here](http://www.stochasticlifestyle.com/wp-content/uploads/2019/08/de_solver_software_comparsion.pdf).
 
 ### AI, Data Science, and Statistics
 
