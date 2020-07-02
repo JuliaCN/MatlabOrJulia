@@ -32,32 +32,32 @@ According to the [official site](https://www.mathworks.com/products.html), matla
 ![#888888](https://via.placeholder.com/15/888888/000000?text=+)
 Parallel Computing Toolbox
 
-    * [builtin multithreading](https://docs.julialang.org/en/v1/base/multi-threading/)
-    * [MPI.jl](https://github.com/JuliaParallel/MPI.jl)
+* [builtin multithreading](https://docs.julialang.org/en/v1/base/multi-threading/)
+* [MPI.jl](https://github.com/JuliaParallel/MPI.jl)
 
 ### Math and Optimization
 
 ![#888888](https://via.placeholder.com/15/888888/000000?text=+)
 Curve Fitting Toolbox
 
-    * [LstFit.jl](https://github.com/JuliaNLSolvers/LsqFit.jl): least square fit
+* [LstFit.jl](https://github.com/JuliaNLSolvers/LsqFit.jl): least square fit
 
 ![#888888](https://via.placeholder.com/15/888888/000000?text=+)
 Optimization Toolbox
 
-    * [Optim.jl](https://github.com/JuliaNLSolvers/Optim.jl)
+* [Optim.jl](https://github.com/JuliaNLSolvers/Optim.jl)
 
 ![#00DD33](https://via.placeholder.com/15/00DD33/000000?text=+) 
 Global Optimization Toolbox
 
-    * [Evolutionary.jl](Evolutionary.jl): Evolutionary & genetic algorithms
-    * [JuMP.jl](https://github.com/jump-dev/JuMP.jl) Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)
+* [Evolutionary.jl](Evolutionary.jl): Evolutionary & genetic algorithms
+* [JuMP.jl](https://github.com/jump-dev/JuMP.jl) Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)
 
 ![#888888](https://via.placeholder.com/15/888888/000000?text=+)
 Symbolic Math Toolbox
 
-    * [SymEngine.jl](https://github.com/symengine/SymEngine.jl)
-    * [SymbolicUtils.jl](https://github.com/JuliaSymbolics/SymbolicUtils.jl)
+* [SymEngine.jl](https://github.com/symengine/SymEngine.jl)
+* [SymbolicUtils.jl](https://github.com/JuliaSymbolics/SymbolicUtils.jl)
 
 ![#888888](https://via.placeholder.com/15/888888/000000?text=+)
 Mapping Toolbox
@@ -65,28 +65,28 @@ Mapping Toolbox
 ![#00DD33](https://via.placeholder.com/15/00DD33/000000?text=+) 
 Partial Differential Equation Toolbox
 
-   * [DifferentialEquations.jl](https://docs.sciml.ai/stable/): probably the best differential equation solver, check [here](http://www.stochasticlifestyle.com/wp-content/uploads/2019/08/de_solver_software_comparsion.pdf).
+* [DifferentialEquations.jl](https://docs.sciml.ai/stable/): probably the best differential equation solver, check [here](http://www.stochasticlifestyle.com/wp-content/uploads/2019/08/de_solver_software_comparsion.pdf).
 
 ### AI, Data Science, and Statistics
 
 ![#888888](https://via.placeholder.com/15/888888/000000?text=+)
 Statistics and Machine Learning Toolbox
 
-   * [Distributions.jl](https://github.com/JuliaStats/Distributions.jl)
-   * [StatsBase.jl](https://github.com/JuliaStats/StatsBase.jl)
-   * [Turing.jl](https://github.com/TuringLang/Turing.jl): Bayesian inference with probabilistic programming.
-   * [Gen.jl](https://github.com/probcomp/Gen.jl): A general-purpose probabilistic programming system with programmable inference
+* [Distributions.jl](https://github.com/JuliaStats/Distributions.jl)
+* [StatsBase.jl](https://github.com/JuliaStats/StatsBase.jl)
+* [Turing.jl](https://github.com/TuringLang/Turing.jl): Bayesian inference with probabilistic programming.
+* [Gen.jl](https://github.com/probcomp/Gen.jl): A general-purpose probabilistic programming system with programmable inference
 
 
 ![#00DD33](https://via.placeholder.com/15/00DD33/000000?text=+) 
 Deep Learning Toolbox
 
-    * [click here](ml.md)
+* [click here](ml.md)
 
 ![#888888](https://via.placeholder.com/15/888888/000000?text=+)
 Reinforcement Learning Toolbox
 
-    * [ReinforcementLearning.jl](https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl)
+* [ReinforcementLearning.jl](https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl)
 
 ![#888888](https://via.placeholder.com/15/888888/000000?text=+)
 Text Analytics Toolbox
@@ -99,9 +99,9 @@ Predictive Maintenance Toolbox
 ![#888888](https://via.placeholder.com/15/888888/000000?text=+)
 MATLAB Coder
 
-   * [Atom/Juno](https://junolab.org/)
-   * [VScode](https://github.com/julia-vscode/julia-vscode)
-   * [Jupyter notebook](https://jupyter.org/)
+* [Atom/Juno](https://junolab.org/)
+* [VScode](https://github.com/julia-vscode/julia-vscode)
+* [Jupyter notebook](https://jupyter.org/)
 
 
 ![#888888](https://via.placeholder.com/15/888888/000000?text=+)
@@ -123,7 +123,7 @@ Fixed-Point Designer
 ![#00DD33](https://via.placeholder.com/15/00DD33/000000?text=+) 
 GPU Coder
 
-   * [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl)
+* [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl)
 
 ### Application Deployment [skipped]
 
@@ -133,7 +133,7 @@ GPU Coder
 ![#888888](https://via.placeholder.com/15/888888/000000?text=+)
 Database Toolbox
 
-   * [JuliaDB.jl](https://github.com/JuliaData/JuliaDB.jl): Parallel analytical database in pure Julia
+* [JuliaDB.jl](https://github.com/JuliaData/JuliaDB.jl): Parallel analytical database in pure Julia
 
 ![#888888](https://via.placeholder.com/15/888888/000000?text=+)
 MATLAB Report Generator
